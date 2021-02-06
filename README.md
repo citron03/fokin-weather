@@ -1,2 +1,3 @@
-# fokin-weather
+# Fokin Weather
+
 Learning react native(expo)
